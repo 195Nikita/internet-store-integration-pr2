@@ -1,0 +1,14 @@
+{
+  "id": "ORDER-2026-0001",
+  "customerName": "Учебный покупатель",
+  "lines": [
+    {
+      "sku": "SKU-001",
+      "quantity": 2
+    },
+    {
+      "sku": "SKU-003",
+      "quantity": 1
+    }
+  ]
+}
